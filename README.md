@@ -51,3 +51,6 @@ Many commercial products can also be seamlessly integrated with Kubernetes, usin
 - [Serverless Architectures] (https://martinfowler.com/articles/serverless.html)
 - [TNS Guide to Serverless Technologies] (http://thenewstack.io/tns-guide-serverless-technologies-best-frameworks-platforms-tools/)
 - [Serverless blogs and posts] (https://github.com/JustServerless/awesome-serverless)
+
+## Videos
+- [Serverless Beyond the Hype - Serverless 2.0] [https://youtu.be/JvXm-oHi5Mg?list=PLEx5khR4g7PLIxNHQ5Ze0Mz6sAXA8vSPE
